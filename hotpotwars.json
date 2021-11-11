@@ -1,0 +1,17 @@
+{
+  "title": "hotpotwars",
+  "description": "Epic saga",
+  "artist": "Regginator",
+  "author": "Regginator",
+  "cover": "https://imgur.com/Czr7rXR",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1636602514",
+      "groups": {
+        "Group": "https://imgur.com/Czr7rXR"
+      }
+    }
+  }
+}
