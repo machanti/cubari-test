@@ -3,14 +3,14 @@
   "description": "Epic saga",
   "artist": "Regginator",
   "author": "Regginator",
-  "cover": "https://imgur.com/Czr7rXR",
+  "cover": "https://imgur.com/a/seby1lp",
   "chapters": {
     "1": {
       "title": "1",
       "volume": "1",
       "last_updated": "1636602514",
       "groups": {
-        "Group": "https://imgur.com/Czr7rXR"
+        "Group": "/proxy/api/imgur/chapter/seby1lp"
       }
     }
   }
