@@ -1,0 +1,17 @@
+{
+  "title": "test",
+  "description": "Fun fun fun test",
+  "artist": "Regginator",
+  "author": "Regginator",
+  "cover": "https://drive.google.com/uc?id=1psBDw98WR4ExWAGxS25Z2v9nBoUIbV1f",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1636680327",
+      "groups": {
+        "Gdrive": "https://drive.google.com/uc?id=1psBDw98WR4ExWAGxS25Z2v9nBoUIbV1f"
+      }
+    }
+  }
+}
