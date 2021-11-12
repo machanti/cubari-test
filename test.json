@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1636680327",
       "groups": {
-        "Gdrive": "https://drive.google.com/uc?id=1psBDw98WR4ExWAGxS25Z2v9nBoUIbV1f"
+        "Gdrive": [
+          "https://drive.google.com/uc?id=1psBDw98WR4ExWAGxS25Z2v9nBoUIbV1f"
+          ]
       }
     }
   }
